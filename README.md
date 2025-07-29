@@ -33,7 +33,7 @@
 
 點擊下方按鈕，即可在 Colab 中互動式執行分析程式：
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chchsunny/gene-expression-analysis/blob/main/gene_analysis.ipynb)
+markdown<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chchsunny/gene-expression-analysis/blob/main/gene_analysis.ipynb)<br>
 
 ---
 
