@@ -7,12 +7,12 @@
 ## 📁 專案內容
 
 | 檔案名稱 | 說明 |
-|----------|------|
+|-----------|------|
 | `gene_analysis.ipynb` | 主要分析流程（支援互動式選單） |
 | `RNA_expression_mock_data.csv` | 原始基因表現資料 |
-| `differential_expression_results.csv` | 所有基因的 Log2FC 與 P-value 統計結果 |
+| `differential_expression_results.csv` | 所有基因的 log2FC 與 p-value 統計結果 |
 | `significant_genes.csv` | 篩選條件（log2FC > 1 且 p < 0.05）下的顯著基因 |
-| `heatmap.png` | 顯著基因的熱圖 |
+| `heatmap.png` | 顯示基因的熱圖 |
 | `volcano_plot.png` | 火山圖：顯示顯著性與表現量變化 |
 
 ---
