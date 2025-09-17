@@ -49,6 +49,4 @@ markdown<br>[![Open In Colab](https://colab.research.google.com/assets/colab
 
 ## 📄 License
 
-本專案使用 MIT License 授權，歡迎自由使用與參考。
-
---- 
+本專案使用 MIT License 授權，歡迎自由使用與參考
